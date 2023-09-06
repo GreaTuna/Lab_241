@@ -31,7 +31,7 @@ if s1 and s2 > 0:
         i -= 1
         j -= 1
         
-    print(f"result: {arr3[::-1]}")
+    print(f"result : {arr3[::-1]}")
 else:
     print("length must be greater than zero")
 
